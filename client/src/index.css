@@ -1,0 +1,14 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+html,
+body {
+  background-color: #23272F;
+  height: 100%;
+  color: white;
+  width: 100%;
+  overflow-x: clip;
+}
